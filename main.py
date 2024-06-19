@@ -24,4 +24,13 @@ class Warrior():
         print(f'Name - {self.name}')
         print(f'power - {self.power}')
         print(f'endurance - {self.endurance}')
-        
+        print(f'hair_color - {self.hair_color}')
+
+war1 = Warrior(name='Petro',power=50, endurance=70, hair_color='violet')
+war2 = Warrior(name='ivan',power=51, endurance=69, hair_color='green')
+
+print(war1.endurance)
+war1.sleep()
+print(war1.endurance)
+
+print(war1.info())

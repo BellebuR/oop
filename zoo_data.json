@@ -1,0 +1,1 @@
+{"animals": [{"type": "Bird", "name": "Tweety", "age": 2}, {"type": "Mammal", "name": "Simba", "age": 5}, {"type": "Reptile", "name": "Slinky", "age": 3}], "staff": [{"type": "ZooKeeper", "name": "John"}, {"type": "Veterinarian", "name": "Dr. Smith"}]}
